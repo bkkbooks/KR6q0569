@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0569/j/v1/juan/0
+seq: 0
+front:
+  text: 通天逸叟高禪師語錄目錄序一序二序三上堂小參機緣偈行狀原書闕
+  hash: sha256:429fc3a5ad7973ca4bdb5c8f7fa2751c68a318eb5a3fa4eeb9d30b0fe6641cbd
+  markers:
+  - {type: 其他, offset: 0, content: 目錄, id: KR6q0569_J_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 通天逸叟高禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J39/J39nB455.xml
+    old_id: J39nB455
+hash: sha256:ba207ad2699620aa59955a37a8318e0e116cc4ed72679d25fb3746daa1bb64e2
