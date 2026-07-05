@@ -4,8 +4,6 @@ markers:
   front:
   - {type: page-break, offset: 0, content: '', id: KR6q0569_J_000-0687a, 'n': 0687a, ed: J, source_xml_id: J39.B455.0687a}
   - {type: line-break, offset: 0, content: '', id: KR6q0569_J_000-0687a01, ed: J, 'n': 0687a01}
-  - {type: substitution, offset: 8, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
-  - {type: substitution, offset: 10, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: line-break, offset: 11, content: '', id: KR6q0569_J_000-0687a02, ed: J, 'n': 0687a02}
   - {type: xml-element, offset: 11, content: '', id: KR6q0569_J_000-bkkxmlele1, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 11, content: '', id: itemJ39p0687a0201, name: item, role: open, attrs: {'xml:id': itemJ39p0687a0201}}
@@ -60,4 +58,4 @@ markers:
   - {type: line-break, offset: 29, content: '', id: KR6q0569_J_000-0687b01, ed: J, 'n': 0687b01}
   body: []
   back: []
-hash: sha256:00a8d62a7afe0b1d1131016d316fd6abd1b2020ae98f7923816ce4fec202f497
+hash: sha256:ade28ab63a14d308d56c49fc4aef912751300ab721bd86819d24936b3005b5eb
