@@ -19,17 +19,17 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0569_000-J.yaml, hash: 'sha256:ba207ad2699620aa59955a37a8318e0e116cc4ed72679d25fb3746daa1bb64e2'}
+  - {seq: 0, filename: KR6q0569_000-J.yaml, hash: 'sha256:0567ab7fc5530d7d1bb1c1e6d0de2e56336336ff4469b133a3948cbff9616b33'}
   - {seq: 1, filename: KR6q0569_001-J.yaml, hash: 'sha256:4b608705f8fec182c3d5eb2002bf9d9f69156f3ff48c2f1e0104819592c286fa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0569_000-J.markers.yaml, hash: 'sha256:a517a61995b3b55c83a15f9c867f957d8a0723e46c5c4f09f275a8ce5c7803df'}
+  - {seq: 0, role: markers, filename: assets/KR6q0569_000-J.markers.yaml, hash: 'sha256:b37cea511c2ae095ca50f7ca3f47335b612dd97eb0a1ecaa31b34bf889c8579f'}
   - {seq: 1, role: markers, filename: assets/KR6q0569_001-J.markers.yaml, hash: 'sha256:ec0c1ea5a420b6b0b0c36974691e5b6a62ff69796076da9a3325024007c0e68d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0569_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目錄
@@ -115,4 +115,4 @@ table_of_contents:
   label: 行狀
   type: mulu
   level: 1
-hash: sha256:03e53065bc32dc813ea7164f12b6848360c5b343d11ac51acd627743c0f72d91
+hash: sha256:da9d85c4bbcd818cd6fd793a62ac5d3324a6713db91f3a112fbf5698c1391be3
